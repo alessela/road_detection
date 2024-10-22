@@ -1,0 +1,6 @@
+https://www.cvlibs.net/datasets/kitti/eval_road.php
+Caio Cesar Teodoro Mendes, Vincent Fremont and Denis Fernando Wolf1 - Vision-Based Road Detection using Contextual Blocks, KITTI, 2015
+http://www.scholarpedia.org/article/Local_Binary_Patterns
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4533825/
+https://ploomber.io/blog/threshold/
+https://superfastpython.com/multiprocessing-pool-for-loop/#Example_of_Parallel_For-Loop_with_starmap
